@@ -1,0 +1,13 @@
+{
+  "name": "whats-in-there",
+  "version": "1.0.0",
+  "description": "Photo-your-fridge recipe finder MVP",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
